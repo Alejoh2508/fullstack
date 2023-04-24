@@ -1,4 +1,4 @@
-# Salon
+# Desarrollador Fullstack – Rentek
 
 Este proyecto esta hecho en PHP 8.1
 
